@@ -11,8 +11,8 @@ def multiply_(a, b):
 def divide_new(a, b):
   return a/b
 
-def const(a):
-  return a
-
-  def get_Median(a, b):
+def get_Median(a, b):
     return (a+b)/2
+
+def get_Remainder(a, b):
+  return a % b
