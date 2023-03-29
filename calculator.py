@@ -22,3 +22,7 @@ def get_Abs(a):
     return -a
   else:
     return a
+
+def get_Percent(a, b):
+  return (a/b)*100
+>>>>>>> Stashed changes
