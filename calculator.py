@@ -13,3 +13,6 @@ def divide_new(a, b):
 
 def const(a):
   return a
+
+  def get_Median(a, b):
+    return (a+b)/2
